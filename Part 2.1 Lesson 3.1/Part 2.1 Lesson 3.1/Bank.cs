@@ -37,27 +37,7 @@ namespace Part_2._1_Lesson_3._1
           
            
         }
-
-        //private void TakeMoneyFrom(int numCount,int sumToTake)
-        //{
-        //    if (user.Banks.NumCount == numCount)
-        //    {
-
-        //        user.Banks.Balans -= sumToTake;
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("такого счёта не существует ");
-        //    }
-        //}
-        //public void AnotherTransfer(int firstCount,int secontCount, int summ )
-        //{
-        //    if (user.Banks.NumCount == firstCount && user.Banks.NumCount == secontCount)
-        //    {
-        //        AddMoneTo(firstCount, summ);
-        //        TakeMoneyFrom(secontCount, summ);
-        //    }
-        //}
+    
         
         public void AddToBalans(int value)
         {
